@@ -4,6 +4,7 @@ SaroPay is a simple fintech app built with Django, Bootstrap, PostgreSQL, AWS S3
 <img src="https://res.cloudinary.com/dkezlmzn1/image/upload/v1692358930/Screenshot_2023-08-18_at_12.20.37_PM_patyau.png"/>
 
 ## Features:
+- Basic User authentication
 - Customer Registration
 - KYC Registration
 - Account Dashboard
