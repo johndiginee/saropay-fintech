@@ -13,4 +13,4 @@ SaroPay is a simple fintech app built with Django, Bootstrap, PostgreSQL, AWS S3
 - Credit Card Features (Add, Delete, Fund, Withdraw from Credit Card)
 - Payment Transaction History
 
-Visit https://saropay-239f9eed487b.herokuapp.com/
+Visit app - https://saropay-239f9eed487b.herokuapp.com/
